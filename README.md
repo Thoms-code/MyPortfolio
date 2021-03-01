@@ -1,2 +1,7 @@
 # MyPortfolio
-All the sites I have created (with/without code) | Tout les site que j'ai créer (avec/sans code)
+ [Click here to see my portfolio](https://github.com/Thoms-code/MyPortfolio/wiki)
+ 
+ ## Changelog
+ v1
+ > - Update Wiki (March 1, 2021)
+ > - Update README.md
